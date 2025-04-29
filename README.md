@@ -14,7 +14,6 @@ This project analyzes global life expectancy data from various sources to identi
 To run this project, you'll need:
 - Python 3.x
 - Jupyter Notebook
-- Libraries: pandas, numpy, matplotlib, seaborn, requests, BeautifulSoup (if used)
 
 ## How to Run
 1. Make sure all required libraries are installed.
